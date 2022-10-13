@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1", 
+        "title": "Minions",
+        "director": "Pierre Coffin",
+        "year": "2015",
+        "rating": "6",
+        "desc": "Los minions, ingenuos y torpes ayudantes de villano, llevan buscando, desde el principio de los tiempos, un verdadero malhechor al que servir. A lo largo de una evolución de millones de años, los minions se han puesto al servicio de los amos más despreciables. Kevin, acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill."
+    },
+
+    {
+        "id": "2", 
+        "title": "Sonic",
+        "director": "Jeff Fowler",
+        "year": "2020",
+        "rating": "8.1",
+        "desc": "Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo."
+    },
+
+    {
+        "id": "3",
+        "title": "The Mobi-Dick",
+        "director": "Herman Melville",
+        "year": "1851",
+        "rating": "8.3",
+        "desc": "'Moby Dick', la novela de Herman Melville, describe el viaje de un joven en un ballenero cuyo capitán tiene ansias de venganza. 'Llamadme Ismael'. Con estas palabras da comienzo la novela de aventuras Moby Dick (Planeta), la más famosa de Herman Melville y la más importante de su carrera."
+    }
+]
